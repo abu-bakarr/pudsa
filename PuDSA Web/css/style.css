@@ -1,57 +1,61 @@
-#logo {
-    width: 100%;
-    height: 100%;
-}
-
-.pudsa {
-    text-align: justify;
-}
-
-.container1 {
-    width: 100%
-}
-
-.bacgrd {
-    background-color: antiquewhite;
-}
-
-.fa li {
-    list-style: none;
-    margin: 10px 2px;
-    display: inline-block;
-    font-size: 15px;
-    padding: 10px 10px;
-    color: #ffffff;
-    border: 1px solid #ffffff;
-    border-radius: 50%;
-    transition: .5s;
-}
-
-.media {
-    float: right;
-    transform: translate(-20%, -20%);
-}
-
-.social_media .fa-3x {
-    margin: 0 10px;
-}
-
-.social_media .fbk:hover {
-    color: blue;
-}
-
-.social_media .lin:hover {
-    color: cyan;
-}
-
-.social_media .ins:hover {
-    color: darkorange;
-}
-
-.social_media .tw:hover {
-    color: teal;
-}
-
-.social_media .gp:hover {
-    color: red;
-}
+        #logo {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .pudsa {
+        text-align: justify;
+    }
+    
+    .container1 {
+        width: 100%
+    }
+    
+    .bacgrd {
+        background-color: antiquewhite;
+    }
+    
+    .fa li {
+        list-style: none;
+        margin: 10px 2px;
+        display: inline-block;
+        font-size: 15px;
+        padding: 10px 10px;
+        color: #ffffff;
+        border: 1px solid #ffffff;
+        border-radius: 50%;
+        transition: .5s;
+    }
+    
+    .media {
+        float: right;
+        transform: translate(-20%, -20%);
+    }
+    
+    .social_media .fa-3x {
+        margin: 0 10px;
+    }
+    
+    .social_media .fbk:hover {
+        color: blue;
+    }
+    
+    .social_media .lin:hover {
+        color: cyan;
+    }
+    
+    .social_media .ins:hover {
+        color: darkorange;
+    }
+    
+    .social_media .tw:hover {
+        color: teal;
+    }
+    
+    .social_media .gp:hover {
+        color: red;
+    }
+    
+    #contacts {
+        width: 100%;
+        background-color: #1589FF;
